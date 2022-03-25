@@ -1,6 +1,4 @@
 #Segundo ejercicio
-from numpy import intp
-
 
 value_a = input("Valor de A - ")
 value_b = input("Valor de B - ")
